@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java projects<br>👯 I’m looking to collaborate on Front end Projects<br>🌱 I’m currently learning Cloud Computing
+🔭 I’m currently working on Front end Projects <br> 👯 I’m looking to collaborate on Mobile App and Web apps <br>🌱 I’m currently learning Backend Engineering
 
 
 ## 🌐 Socials:
