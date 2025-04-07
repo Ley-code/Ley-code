@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front end Projects <br> 👯 I’m looking to collaborate on Mobile App and Web apps <br>🌱 I’m currently learning Backend Engineering
+🔭 I’m currently working on Backend Apps Using NestJS <br> 👯 I love to collaborate on Real Time data processing systems <br>🌱 I'm Currently Learning BlockChain Technology
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/leykunbi12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leykun-birhanu-abera/) 
